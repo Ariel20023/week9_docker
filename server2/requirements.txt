@@ -1,0 +1,6 @@
+fastapi
+pathlib
+json
+pydantic
+uvicorn
+
